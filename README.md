@@ -6,18 +6,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoambrozino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Brenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Brenno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Brenno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Brenno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Brenno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Brenno-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Brenno-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="Brenno-Jest" height="30" width="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-  <img align="center" alt="Brenno-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Brenno-Postman" height="30" width="30" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
-  <img align="center" alt="Brenno-Heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-  <img align="center" alt="Brenno-Surge" height="30" width="40" src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg">
+  <img align="center" alt="Brenno-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Brenno-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Brenno-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Brenno-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Brenno-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Brenno-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Brenno-Node" height="40" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img align="center" alt="Brenno-Jest" height="40" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+  <img align="center" alt="Brenno-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Brenno-Postman" height="40" width="40" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
+  <img align="center" alt="Brenno-Heroku" height="40" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+  <img align="center" alt="Brenno-Surge" height="40" width="40" src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg">
 
 
 </div>
