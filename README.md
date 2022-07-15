@@ -15,7 +15,10 @@
   <img align="center" alt="Brenno-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Brenno-Jest" height="30" width="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
   <img align="center" alt="Brenno-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Brenno-Git" height="30" width="30" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
+  <img align="center" alt="Brenno-Postman" height="30" width="30" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
+  <img align="center" alt="Brenno-Heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+  <img align="center" alt="Brenno-Surge" height="30" width="40" src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg">
+
 
 </div>
   
